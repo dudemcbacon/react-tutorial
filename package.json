@@ -1,0 +1,12 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "this is a thing",
+  "main": "index.js",
+  "author": "Brandon Burnett",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {}
+}
