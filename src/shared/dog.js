@@ -1,4 +1,3 @@
-/* jshint esnext: true */
 
 class Dog {
   constructor(name) {
